@@ -1,1 +1,0 @@
-/Users/wgelderloos/Scripts/personal_development/Advent_of_Code/AdventOfCode/2022/day10/target/debug/day10: /Users/wgelderloos/Scripts/personal_development/Advent_of_Code/AdventOfCode/2022/day10/src/main.rs
